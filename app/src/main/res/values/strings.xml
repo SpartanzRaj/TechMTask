@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TechMTask</string>
+    <string name="start_download">Start Download</string>
+    <string name="click_the_above_button_to_start_download_file">Click the above button to start download file</string>
+    <string name="work_manager">Work Manager</string>
+    <string name="permission">Sorry. Please allow permission to download file</string>
+</resources>
